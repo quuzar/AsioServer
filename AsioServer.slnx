@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AsioServer/AsioServer.vcxproj" Id="5de5f9f2-0be5-4dfd-8273-a23508eac9fe" />
+</Solution>
